@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "e118fc8bdd35444379d366aa9a056769",
+    "pageAccessToken": "EAADTwJVn6yEBAGfqFtaMceXbZB8uXD9QTwMjZCK1pJA0x6E7OGGYPMeefBnXnZBaqU750cwRSm0jKoUZAuUYhtZCDgpVt2krZBHQ9KYUMlmZCOxGCSaUIFnK3AY4M1Fure5bIHjXflcY3TwdcnXo9n1EaSTxoqPluSOiUoZA5XGLhgZDZD",
+    "validationToken": "fortis_hq_verification_token",
+    "serverURL": "https://fortishq.herokuapp.com/webhook"
 }
